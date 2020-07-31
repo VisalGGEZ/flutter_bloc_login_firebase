@@ -50,13 +50,3 @@ class AuthenticationBloc
     _userRepository.signOut();
   }
 }
-
-/*
-echo "# flutter_bloc_login_firebase" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/VisalGGEZ/flutter_bloc_login_firebase.git
-git push -u origin master
-
- */
